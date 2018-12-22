@@ -1,2 +1,5 @@
 name: hello_dart
 description: first dart app
+private: True
+environment:
+  sdk: ">=2.0.0 <3.0.0"
